@@ -1,0 +1,41 @@
+/* import poppins font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family:'Poppins', sans-serif ;
+    overflow-x: hidden !important;
+}
+.header-styles, .notified{
+    background-color:#264653;
+}
+.btn-color{
+    background-color:#E76F51 ;
+}
+.btn-border{
+    border:2px solid #E76F51;
+    color:#E76F51;
+}
+.custom-banner p, footer .f-data{
+    color:#E1E5E7;
+    font-size: 16px;
+    font-weight: 100;
+}
+.feautred-bike hr{
+    width:60px;
+    border:1px solid tomato;
+    color:#E76F51;
+}
+.tomato-color{
+    color:#E76F51;
+}
+.card p{
+    color:#757575;
+}
+footer{
+    background-color: #0B0D17;
+}
+.get-app{
+    font-size: 12px;
+}
+ul{
+    list-style-type: circle;
+}
